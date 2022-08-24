@@ -1,0 +1,3 @@
+C:\Users\User\Documents\2ci kurs\c#\2.4.8\2.4.8\obj\Debug\2.4.8.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\2.4.8\2.4.8\obj\Debug\2.4.8.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\2.4.8\2.4.8\obj\Debug\2.4.8.csproj.CoreCompileInputs.cache

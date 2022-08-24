@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\1.4.7 vurma\1.4.7 vurma\bin\Debug\1.4.7 vurma.exe.config
+C:\Users\User\Documents\2ci kurs\c#\1.4.7 vurma\1.4.7 vurma\bin\Debug\1.4.7 vurma.exe
+C:\Users\User\Documents\2ci kurs\c#\1.4.7 vurma\1.4.7 vurma\bin\Debug\1.4.7 vurma.pdb
+C:\Users\User\Documents\2ci kurs\c#\1.4.7 vurma\1.4.7 vurma\obj\Debug\1.4.7 vurma.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\1.4.7 vurma\1.4.7 vurma\obj\Debug\1.4.7 vurma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\1.4.7 vurma\1.4.7 vurma\obj\Debug\1.4.7 vurma.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\1.4.7 vurma\1.4.7 vurma\obj\Debug\1.4.7 vurma.exe
+C:\Users\User\Documents\2ci kurs\c#\1.4.7 vurma\1.4.7 vurma\obj\Debug\1.4.7 vurma.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0568133a-4d9e-4bd8-af6a-ed4c4f330c80": {
+      "ProjectGuid": "0568133a-4d9e-4bd8-af6a-ed4c4f330c80",
+      "DisplayName": "task1 artib azalma",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

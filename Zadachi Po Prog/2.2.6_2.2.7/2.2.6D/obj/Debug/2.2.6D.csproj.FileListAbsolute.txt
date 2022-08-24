@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\2.2.6_2.2.7\2.2.6D\bin\Debug\2.2.6D.exe.config
+C:\Users\User\Documents\2ci kurs\c#\2.2.6_2.2.7\2.2.6D\bin\Debug\2.2.6D.exe
+C:\Users\User\Documents\2ci kurs\c#\2.2.6_2.2.7\2.2.6D\bin\Debug\2.2.6D.pdb
+C:\Users\User\Documents\2ci kurs\c#\2.2.6_2.2.7\2.2.6D\obj\Debug\2.2.6D.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\2.2.6_2.2.7\2.2.6D\obj\Debug\2.2.6D.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\2.2.6_2.2.7\2.2.6D\obj\Debug\2.2.6D.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\2.2.6_2.2.7\2.2.6D\obj\Debug\2.2.6D.exe
+C:\Users\User\Documents\2ci kurs\c#\2.2.6_2.2.7\2.2.6D\obj\Debug\2.2.6D.pdb

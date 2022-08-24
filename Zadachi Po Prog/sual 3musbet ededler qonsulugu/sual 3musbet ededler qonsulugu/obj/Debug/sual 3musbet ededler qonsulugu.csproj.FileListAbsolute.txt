@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\sual 3musbet ededler qonsulugu\sual 3musbet ededler qonsulugu\bin\Debug\sual 3musbet ededler qonsulugu.exe.config
+C:\Users\User\Documents\2ci kurs\c#\sual 3musbet ededler qonsulugu\sual 3musbet ededler qonsulugu\bin\Debug\sual 3musbet ededler qonsulugu.exe
+C:\Users\User\Documents\2ci kurs\c#\sual 3musbet ededler qonsulugu\sual 3musbet ededler qonsulugu\bin\Debug\sual 3musbet ededler qonsulugu.pdb
+C:\Users\User\Documents\2ci kurs\c#\sual 3musbet ededler qonsulugu\sual 3musbet ededler qonsulugu\obj\Debug\sual 3musbet ededler qonsulugu.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\sual 3musbet ededler qonsulugu\sual 3musbet ededler qonsulugu\obj\Debug\sual 3musbet ededler qonsulugu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\sual 3musbet ededler qonsulugu\sual 3musbet ededler qonsulugu\obj\Debug\sual 3musbet ededler qonsulugu.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\sual 3musbet ededler qonsulugu\sual 3musbet ededler qonsulugu\obj\Debug\sual 3musbet ededler qonsulugu.exe
+C:\Users\User\Documents\2ci kurs\c#\sual 3musbet ededler qonsulugu\sual 3musbet ededler qonsulugu\obj\Debug\sual 3musbet ededler qonsulugu.pdb

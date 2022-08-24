@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\2.1.4 a\2.1.4 a\bin\Debug\2.1.4 a.exe.config
+C:\Users\User\Documents\2ci kurs\c#\2.1.4 a\2.1.4 a\bin\Debug\2.1.4 a.exe
+C:\Users\User\Documents\2ci kurs\c#\2.1.4 a\2.1.4 a\bin\Debug\2.1.4 a.pdb
+C:\Users\User\Documents\2ci kurs\c#\2.1.4 a\2.1.4 a\obj\Debug\2.1.4 a.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\2.1.4 a\2.1.4 a\obj\Debug\2.1.4 a.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\2.1.4 a\2.1.4 a\obj\Debug\2.1.4 a.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\2.1.4 a\2.1.4 a\obj\Debug\2.1.4 a.exe
+C:\Users\User\Documents\2ci kurs\c#\2.1.4 a\2.1.4 a\obj\Debug\2.1.4 a.pdb

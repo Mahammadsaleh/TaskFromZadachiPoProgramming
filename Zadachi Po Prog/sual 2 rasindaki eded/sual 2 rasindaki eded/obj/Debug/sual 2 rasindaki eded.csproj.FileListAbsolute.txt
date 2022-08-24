@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\sual 2 rasindaki eded\sual 2 rasindaki eded\bin\Debug\sual 2 rasindaki eded.exe.config
+C:\Users\User\Documents\2ci kurs\c#\sual 2 rasindaki eded\sual 2 rasindaki eded\bin\Debug\sual 2 rasindaki eded.exe
+C:\Users\User\Documents\2ci kurs\c#\sual 2 rasindaki eded\sual 2 rasindaki eded\bin\Debug\sual 2 rasindaki eded.pdb
+C:\Users\User\Documents\2ci kurs\c#\sual 2 rasindaki eded\sual 2 rasindaki eded\obj\Debug\sual 2 rasindaki eded.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\sual 2 rasindaki eded\sual 2 rasindaki eded\obj\Debug\sual 2 rasindaki eded.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\sual 2 rasindaki eded\sual 2 rasindaki eded\obj\Debug\sual 2 rasindaki eded.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\sual 2 rasindaki eded\sual 2 rasindaki eded\obj\Debug\sual 2 rasindaki eded.exe
+C:\Users\User\Documents\2ci kurs\c#\sual 2 rasindaki eded\sual 2 rasindaki eded\obj\Debug\sual 2 rasindaki eded.pdb

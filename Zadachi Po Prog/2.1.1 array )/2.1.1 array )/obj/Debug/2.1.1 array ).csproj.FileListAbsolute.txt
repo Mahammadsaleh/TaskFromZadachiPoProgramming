@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\2.1.1 array )\2.1.1 array )\bin\Debug\2.1.1 array ).exe.config
+C:\Users\User\Documents\2ci kurs\c#\2.1.1 array )\2.1.1 array )\bin\Debug\2.1.1 array ).exe
+C:\Users\User\Documents\2ci kurs\c#\2.1.1 array )\2.1.1 array )\bin\Debug\2.1.1 array ).pdb
+C:\Users\User\Documents\2ci kurs\c#\2.1.1 array )\2.1.1 array )\obj\Debug\2.1.1 array ).csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\2.1.1 array )\2.1.1 array )\obj\Debug\2.1.1 array ).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\2.1.1 array )\2.1.1 array )\obj\Debug\2.1.1 array ).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\2.1.1 array )\2.1.1 array )\obj\Debug\2.1.1 array ).exe
+C:\Users\User\Documents\2ci kurs\c#\2.1.1 array )\2.1.1 array )\obj\Debug\2.1.1 array ).pdb

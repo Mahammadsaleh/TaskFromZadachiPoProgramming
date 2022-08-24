@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 2 eded ardicil\bin\Debug\1.6.1 2 eded ardicil.exe.config
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 2 eded ardicil\bin\Debug\1.6.1 2 eded ardicil.exe
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 2 eded ardicil\bin\Debug\1.6.1 2 eded ardicil.pdb
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 2 eded ardicil\obj\Debug\1.6.1 2 eded ardicil.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 2 eded ardicil\obj\Debug\1.6.1 2 eded ardicil.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 2 eded ardicil\obj\Debug\1.6.1 2 eded ardicil.exe
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 2 eded ardicil\obj\Debug\1.6.1 2 eded ardicil.pdb
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 2 eded ardicil\obj\Debug\1.6.1 2 eded ardicil.csproj.AssemblyReference.cache

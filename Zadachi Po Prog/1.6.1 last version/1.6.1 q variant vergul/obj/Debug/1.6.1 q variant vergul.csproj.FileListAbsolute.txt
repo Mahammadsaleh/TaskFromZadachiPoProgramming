@@ -1,0 +1,7 @@
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 q variant vergul\bin\Debug\1.6.1 q variant vergul.exe.config
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 q variant vergul\bin\Debug\1.6.1 q variant vergul.exe
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 q variant vergul\bin\Debug\1.6.1 q variant vergul.pdb
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 q variant vergul\obj\Debug\1.6.1 q variant vergul.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 q variant vergul\obj\Debug\1.6.1 q variant vergul.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 q variant vergul\obj\Debug\1.6.1 q variant vergul.exe
+C:\Users\User\Documents\2ci kurs\c#\1.6.1 last version\1.6.1 q variant vergul\obj\Debug\1.6.1 q variant vergul.pdb

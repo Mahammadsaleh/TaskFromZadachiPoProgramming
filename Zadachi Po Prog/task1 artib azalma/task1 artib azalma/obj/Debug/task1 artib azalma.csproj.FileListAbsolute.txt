@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\task1 artib azalma\task1 artib azalma\bin\Debug\task1 artib azalma.exe.config
+C:\Users\User\Documents\2ci kurs\c#\task1 artib azalma\task1 artib azalma\bin\Debug\task1 artib azalma.exe
+C:\Users\User\Documents\2ci kurs\c#\task1 artib azalma\task1 artib azalma\bin\Debug\task1 artib azalma.pdb
+C:\Users\User\Documents\2ci kurs\c#\task1 artib azalma\task1 artib azalma\obj\Debug\task1 artib azalma.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\task1 artib azalma\task1 artib azalma\obj\Debug\task1 artib azalma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\task1 artib azalma\task1 artib azalma\obj\Debug\task1 artib azalma.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\task1 artib azalma\task1 artib azalma\obj\Debug\task1 artib azalma.exe
+C:\Users\User\Documents\2ci kurs\c#\task1 artib azalma\task1 artib azalma\obj\Debug\task1 artib azalma.pdb

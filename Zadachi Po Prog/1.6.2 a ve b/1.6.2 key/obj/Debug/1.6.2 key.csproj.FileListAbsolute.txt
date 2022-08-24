@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\1.6.2 a ve b\1.6.2 key\bin\Debug\1.6.2 key.exe.config
+C:\Users\User\Documents\2ci kurs\c#\1.6.2 a ve b\1.6.2 key\bin\Debug\1.6.2 key.exe
+C:\Users\User\Documents\2ci kurs\c#\1.6.2 a ve b\1.6.2 key\bin\Debug\1.6.2 key.pdb
+C:\Users\User\Documents\2ci kurs\c#\1.6.2 a ve b\1.6.2 key\obj\Debug\1.6.2 key.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\1.6.2 a ve b\1.6.2 key\obj\Debug\1.6.2 key.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\1.6.2 a ve b\1.6.2 key\obj\Debug\1.6.2 key.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\1.6.2 a ve b\1.6.2 key\obj\Debug\1.6.2 key.exe
+C:\Users\User\Documents\2ci kurs\c#\1.6.2 a ve b\1.6.2 key\obj\Debug\1.6.2 key.pdb

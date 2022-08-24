@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\4cu sual 0 lar arasindaki hasil\4cu sual 0 lar arasindaki hasil\bin\Debug\4cu sual 0 lar arasindaki hasil.exe.config
+C:\Users\User\Documents\2ci kurs\c#\4cu sual 0 lar arasindaki hasil\4cu sual 0 lar arasindaki hasil\bin\Debug\4cu sual 0 lar arasindaki hasil.exe
+C:\Users\User\Documents\2ci kurs\c#\4cu sual 0 lar arasindaki hasil\4cu sual 0 lar arasindaki hasil\bin\Debug\4cu sual 0 lar arasindaki hasil.pdb
+C:\Users\User\Documents\2ci kurs\c#\4cu sual 0 lar arasindaki hasil\4cu sual 0 lar arasindaki hasil\obj\Debug\4cu sual 0 lar arasindaki hasil.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\4cu sual 0 lar arasindaki hasil\4cu sual 0 lar arasindaki hasil\obj\Debug\4cu sual 0 lar arasindaki hasil.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\4cu sual 0 lar arasindaki hasil\4cu sual 0 lar arasindaki hasil\obj\Debug\4cu sual 0 lar arasindaki hasil.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\4cu sual 0 lar arasindaki hasil\4cu sual 0 lar arasindaki hasil\obj\Debug\4cu sual 0 lar arasindaki hasil.exe
+C:\Users\User\Documents\2ci kurs\c#\4cu sual 0 lar arasindaki hasil\4cu sual 0 lar arasindaki hasil\obj\Debug\4cu sual 0 lar arasindaki hasil.pdb

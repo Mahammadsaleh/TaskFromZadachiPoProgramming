@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e7e3815-c853-4dda-bad5-11e4a3965a8d": {
+      "ProjectGuid": "5e7e3815-c853-4dda-bad5-11e4a3965a8d",
+      "DisplayName": "2.1.5 ve digerleri",
+      "ColorIndex": 0
+    },
+    "90e5d64e-af86-4cc4-8828-32c3cdede1b0": {
+      "ProjectGuid": "90e5d64e-af86-4cc4-8828-32c3cdede1b0",
+      "DisplayName": "2.1.6",
+      "ColorIndex": 1
+    },
+    "6f0f64e0-7adf-49b5-8cd1-2dfb0a4f5ca9": {
+      "ProjectGuid": "6f0f64e0-7adf-49b5-8cd1-2dfb0a4f5ca9",
+      "DisplayName": "2.1.7",
+      "ColorIndex": 2
+    },
+    "b701e110-d3e2-46c6-bca9-6326175f2b34": {
+      "ProjectGuid": "b701e110-d3e2-46c6-bca9-6326175f2b34",
+      "DisplayName": "2.1.8",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

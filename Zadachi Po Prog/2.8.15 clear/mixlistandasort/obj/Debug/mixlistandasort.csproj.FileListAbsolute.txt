@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\2.8.15 clear\mixlistandasort\obj\Debug\mixlistandasort.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\2.8.15 clear\mixlistandasort\obj\Debug\mixlistandasort.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\2.8.15 clear\mixlistandasort\obj\Debug\mixlistandasort.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\2.8.15 clear\mixlistandasort\bin\Debug\mixlistandasort.exe.config
+C:\Users\User\Documents\2ci kurs\c#\2.8.15 clear\mixlistandasort\bin\Debug\mixlistandasort.exe
+C:\Users\User\Documents\2ci kurs\c#\2.8.15 clear\mixlistandasort\bin\Debug\mixlistandasort.pdb
+C:\Users\User\Documents\2ci kurs\c#\2.8.15 clear\mixlistandasort\obj\Debug\mixlistandasort.exe
+C:\Users\User\Documents\2ci kurs\c#\2.8.15 clear\mixlistandasort\obj\Debug\mixlistandasort.pdb
